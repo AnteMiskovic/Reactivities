@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client-app",
+    "\\client-app\\src",
+    "\\client-app\\src\\app",
+    "\\Persistence",
+    "\\Persistence\\Migrations"
+  ],
+  "SelectedNode": "\\Persistence\\Migrations\\20200728104616_AddedFollowingEntity.cs",
+  "PreviewInSolutionExplorer": false
+}
