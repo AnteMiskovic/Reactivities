@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@microsoft/signalr": "^3.1.6",
-    "@types/cropperjs": "^1.1.5",
+    "@types/cropperjs": "1.1.5",
     "@types/jest": "24.0.15",
     "@types/node": "12.6.8",
     "@types/react": "16.8.23",
@@ -20,7 +20,7 @@
     "mobx": "^5.13.0",
     "mobx-react-lite": "^1.4.1",
     "react": "^16.8.6",
-    "react-cropper": "^1.2.0",
+    "react-cropper": "1.2.0",
     "react-dom": "^16.8.6",
     "react-dropzone": "^11.0.2",
     "react-final-form": "^6.3.0",
@@ -33,7 +33,7 @@
     "revalidate": "^1.2.0",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.87.3",
-    "typescript": "3.5.3",
+    "typescript": "^3.5.3",
     "uuid": "^3.3.2"
   },
   "scripts": {
